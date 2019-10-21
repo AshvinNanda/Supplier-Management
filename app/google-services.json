@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937858805034",
+    "firebase_url": "https://computingprojectiit-2019-9bd2e.firebaseio.com",
+    "project_id": "computingprojectiit-2019-9bd2e",
+    "storage_bucket": "computingprojectiit-2019-9bd2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937858805034:android:5c38cd05fdf7be1e330253",
+        "android_client_info": {
+          "package_name": "com.example.aruns.ordermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937858805034-seihjh6r0v5rjh3hpk6obe5tsodqlch0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aruns.ordermanagement",
+            "certificate_hash": "95499391a35e45eb51e1587b51e799bb31842625"
+          }
+        },
+        {
+          "client_id": "937858805034-28aot1ijaoqnq3dnuhuqe7jjto73mffv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK94lUWSlDJui6LwITUXVKQJmkYLDP0V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937858805034-28aot1ijaoqnq3dnuhuqe7jjto73mffv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

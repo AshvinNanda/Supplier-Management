@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"></string>
+
+    <!--Strings related to supplier management -->
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="ItemName">
+        <item>Cement</item>
+        <item>TMT Bars</item>
+        <item>Bricks</item>
+        <item>Plywood</item>
+        <item>Iron Bars</item>
+    </string-array>
+
+    <string-array name="CompanyName">
+        <item>Maga</item>
+        <item>Nawaloka</item>
+        <item>Sanken</item>
+        <item>Sierra</item>
+        <item>SLIIT</item>
+    </string-array>
+
+    <string-array name="ScheduleType">
+        <item>Batchwise</item>
+        <item>Whole Consignment</item>
+    </string-array>
+
+</resources>
